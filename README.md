@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @waseque199
-- 👀 I’m interested in to code a program leading to the future!!!
-- 🌱 I’m currently learning what i can find.
-- 💞️ I’m looking to collaborate on making project on multi language.
-- 📫 How to reach me via mail and social media.
+- 👋 Hi, I’m Waseque
+- 👀 I’m interested Java, Python Spring Boot, Php, Machine Learning
+- 🌱 I’m will pursue projects in app development which will be seen here
+- 💞️ I’m looking to collaborate on service based applications.
+- 📫 How to reach me via mail or LinkedIN
 
 <!---
 waseque199/waseque199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
